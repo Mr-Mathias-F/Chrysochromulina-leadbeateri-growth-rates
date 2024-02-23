@@ -51,3 +51,18 @@ Column description:
 * Experiment ID – Identification of experiment
 * Maximum specific growth rate – The maximum specific growth rate (d<sup>-1</sup>) estimated for given combination of Strain, Salinity, Temperature, Irradiance and Experiment ID
 * Standard deviation – Standard deviation of the maximum specific growth rates of all technical replicates for given combination of Strain, Salinity, Temperature, Irradiance and Experiment ID
+
+### **HTCL_dataset_validation.xlsx** ###
+
+Dataset with _Chrysochromulina leadbeateri_ strain UIO394 _in vivo_ chlorophyll-a measurements and cell concentations (cells mL<sup>-1</sup>).
+
+* Replicate – Identification of replicate
+* Day – Time passed (d) since experiment start
+* IVF_mean – Mean _in vivo_ chlorophyll-a measurements of _Chrysochromulina leadbeateri_
+* IVF_sd – Standard deviation of  mean _in vivo_ chlorophyll-a measurements for technical replicates
+* Cell_conc – Cell concentration of _Chrysochromulina leadbeateri_ determined by manual cell counting (cells mL<sup>-1</sup>)
+* Strain – Strain of _Chrysochromulina leadbeateri_ used
+* Species – Taxonomic Species name
+* Temp – Temperature (°C)
+* Salintiy – Salinity of the medium
+* Date – Date (in **DD-MM-YYYY** format)
