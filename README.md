@@ -56,6 +56,8 @@ Column description:
 
 Dataset with _Chrysochromulina leadbeateri_ strain UIO394 _in vivo_ chlorophyll-a measurements and cell concentations (cells mL<sup>-1</sup>).
 
+Column description:
+
 * **Replicate** – Identification of replicate
 * **Day** – Time passed (d) since experiment start
 * **IVF_mean** – Mean _in vivo_ chlorophyll-a measurements of _Chrysochromulina leadbeateri_
