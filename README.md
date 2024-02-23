@@ -23,7 +23,7 @@ Column description:
 * Light_panel –	Identification of which light panel used	
 * Group	– Taxonomic clade of species
 * Genus	– Taxonomic genus of species
-* Species –	Taxonomic Species name
+* Species –	Taxonomic species name
 * Strain_Experiment_Replicate – Description of strain from which experiment and replicate (concatenation of Strain, Experiment.x and replicate)
 * Strain_Experiment – Description of strain from which experiment (concatenation of Strain and Experiment.x)
 * Strain – Strain of _Chrysochromulina leadbeateri_ used
