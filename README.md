@@ -1,10 +1,10 @@
 # Datasets from "Optimal growth conditions of the haptophyte _Chrysochromulina leadbeateri_ causing massive fish mortality in Northern Norway" #
 
-## Datasets used in high-throughput _Chrysochromulina leadbeateri_ (HTCL) growth rate experiments ##
-
 ## Data analysis ##
 
 All files used for data processing, analysis and Arduino light panel programming are in the 'analysis' folder.
+
+## Datasets used in high-throughput _Chrysochromulina leadbeateri_ (HTCL) growth rate experiments ##
 
 ### **HTCL_dataset_metadata.csv** / **HTCL_dataset_metadata.xlsx** ###
 
