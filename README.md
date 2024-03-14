@@ -67,7 +67,7 @@ Column description:
 * **Temp** – Temperature (°C)
 * **Salintiy** – Salinity of the medium
 * **Date – Date** (in **DD-MM-YYYY** format)
-* 
+
 ## Data analysis ##
 
-All files used for data processing, analysis and Arduino light panel programming is available in the 'analysis' folder.
+All files used for data processing, analysis and Arduino light panel programming are in the 'analysis' folder.
