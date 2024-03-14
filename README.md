@@ -42,7 +42,7 @@ Column description:
 * **Timepassed** – Time passed since starting experiment (based on the time of the first measurement)
 * **Day** –	Time passed in number of days (rounded from Timepassed to integer)
 
-### ***metaPR2_Chrysochromulina_leadbeateri** ###
+### **metaPR2_Chrysochromulina_leadbeateri** ###
 
 Text
 
