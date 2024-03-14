@@ -203,7 +203,7 @@ print(growthPlot)
 # Log growth curves
 
 for (i in levels(df_htcl_analysis$Strain)){
-timecurveGrowthLog(df_htcl_analysis, strain = "UIO035", experiment = 2) + 
+timecurveGrowthLog(df_htcl_analysis, strain = i, experiment = 2) + 
   theme(axis.text.y = element_text(size=rel(1.6)), axis.title = element_text(size = rel(0.65))) +
   guides(color = guide_legend(override.aes = list(size = 4)))
   
