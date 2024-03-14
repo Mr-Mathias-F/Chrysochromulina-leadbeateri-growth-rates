@@ -63,20 +63,6 @@ Column description:
 * **longitude** –
 * **latitude** –
 
-### **HTCL_mumax.xlsx** ###
-
-Dataset with _Chrysochromulina leadbeateri_ maximum specific growth rates obtained from the spline models.
-
-Column description:
-
-* **Strain** – Strain of _Chrysochromulina leadbeateri_ used
-* **Salinity** – Salinity treatment of the medium
-* **Temperature** – Temperature treatment (°C)
-* **Irradiance** – Irradiance treatment (µmol m<sup>-2</sup> s<sup>-1</sup>)
-* **Experiment ID** – Identification of experiment
-* **Maximum specific growth rate** – The maximum specific growth rate (d<sup>-1</sup>) estimated for given combination of Strain, Salinity, Temperature, Irradiance and Experiment ID
-* **Standard deviation** – Standard deviation of the maximum specific growth rates of all technical replicates for given combination of Strain, Salinity, Temperature, Irradiance and Experiment ID
-
 ### **HTCL_dataset_validation.csv** / **HTCL_dataset_validation.xlsx** ###
 
 Dataset with _Chrysochromulina leadbeateri_ strain UIO394 _in vivo_ chlorophyll-a measurements and cell concentations (cells mL<sup>-1</sup>).
@@ -93,3 +79,16 @@ Column description:
 * **Salintiy** – Salinity of the medium
 * **Date – Date** (in **DD-MM-YYYY** format)
 
+### **HTCL_mumax.xlsx** ###
+
+Dataset with _Chrysochromulina leadbeateri_ maximum specific growth rates obtained from the spline models.
+
+Column description:
+
+* **Strain** – Strain of _Chrysochromulina leadbeateri_ used
+* **Salinity** – Salinity treatment of the medium
+* **Temperature** – Temperature treatment (°C)
+* **Irradiance** – Irradiance treatment (µmol m<sup>-2</sup> s<sup>-1</sup>)
+* **Experiment ID** – Identification of experiment
+* **Maximum specific growth rate** – The maximum specific growth rate (d<sup>-1</sup>) estimated for given combination of Strain, Salinity, Temperature, Irradiance and Experiment ID
+* **Standard deviation** – Standard deviation of the maximum specific growth rates of all technical replicates for given combination of Strain, Salinity, Temperature, Irradiance and Experiment ID
