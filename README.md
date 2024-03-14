@@ -2,6 +2,10 @@
 
 ## Datasets used in high-throughput _Chrysochromulina leadbeateri_ (HTCL) growth rate experiments ##
 
+## Data analysis ##
+
+All files used for data processing, analysis and Arduino light panel programming are in the 'analysis' folder.
+
 ### **HTCL_dataset_metadata.csv** / **HTCL_dataset_metadata.xlsx** ###
 
 Dataset with _Chrysochromulina leadbeateri_ chlorophyll-a measurement with full metadata.
@@ -38,6 +42,10 @@ Column description:
 * **Timepassed** – Time passed since starting experiment (based on the time of the first measurement)
 * **Day** –	Time passed in number of days (rounded from Timepassed to integer)
 
+### ***metaPR2_Chrysochromulina_leadbeateri** ###
+
+
+
 ### **HTCL_mumax.xlsx** ###
 
 Dataset with _Chrysochromulina leadbeateri_ maximum specific growth rates obtained from the spline models.
@@ -68,6 +76,3 @@ Column description:
 * **Salintiy** – Salinity of the medium
 * **Date – Date** (in **DD-MM-YYYY** format)
 
-## Data analysis ##
-
-All files used for data processing, analysis and Arduino light panel programming are in the 'analysis' folder.
