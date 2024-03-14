@@ -1,5 +1,12 @@
 # Datasets from "Optimal growth conditions of the haptophyte _Chrysochromulina leadbeateri_ causing massive fish mortality in Northern Norway" #
 
+## Experimental design ##
+
+The study used a high-throughput experimental design to screen the growth rates of the fish-killing haptophyte  _Chrysochromulina leadbeateri_, which caused massive fish mortality in Northern Norway in 1991 and 2019. The figure below shows a schematic depiction of the experimental design.
+
+![Fig_2](https://github.com/Mr-Mathias-F/Chrysochromulina-leadbeateri-growth-rates/assets/74455376/ef3eca8c-c58d-4b80-b892-6dc4e201dd15)
+
+
 ## Data analysis ##
 
 All files used for data processing, analysis and Arduino light panel programming are in the `Analysis` folder.
@@ -44,7 +51,13 @@ Column description:
 
 ### **metaPR2_Chrysochromulina_leadbeateri.csv** / **metaPR2_Chrysochromulina_leadbeateri.xlsx** ###
 
-Text
+* **depth** –
+* **salinity** –
+* **temperature** –
+* **asv_code** –
+* **n_reads_pct** –
+* **longitude** –
+* **latitude** –
 
 ### **HTCL_mumax.xlsx** ###
 
