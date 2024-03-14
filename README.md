@@ -2,7 +2,7 @@
 
 ## Data analysis ##
 
-All files used for data processing, analysis and Arduino light panel programming are in the 'analysis' folder.
+All files used for data processing, analysis and Arduino light panel programming are in the `Analysis` folder.
 
 ## Datasets used in high-throughput _Chrysochromulina leadbeateri_ (HTCL) growth rate experiments ##
 
