@@ -51,6 +51,10 @@ Column description:
 
 ### **metaPR2_Chrysochromulina_leadbeateri.csv** / **metaPR2_Chrysochromulina_leadbeateri.xlsx** ###
 
+Extracted data from the metaPR2 dataset for species _Chrysochromulina leadbeateri_.
+
+Column description:
+
 * **depth** –
 * **salinity** –
 * **temperature** –
