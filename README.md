@@ -2,7 +2,7 @@
 
 ## Datasets used in high-throughput _Chrysochromulina leadbeateri_ (HTCL) growth rate experiments ##
 
-### **HTCL_dataset_metadata.xlsx** ###
+### **HTCL_dataset_metadata.csv** / **HTCL_dataset_metadata.xlsx** ###
 
 Dataset with _Chrysochromulina leadbeateri_ chlorophyll-a measurement with full metadata.
 
@@ -52,7 +52,7 @@ Column description:
 * **Maximum specific growth rate** – The maximum specific growth rate (d<sup>-1</sup>) estimated for given combination of Strain, Salinity, Temperature, Irradiance and Experiment ID
 * **Standard deviation** – Standard deviation of the maximum specific growth rates of all technical replicates for given combination of Strain, Salinity, Temperature, Irradiance and Experiment ID
 
-### **HTCL_dataset_validation.xlsx** ###
+### **HTCL_dataset_validation.csv** / **HTCL_dataset_validation.xlsx** ###
 
 Dataset with _Chrysochromulina leadbeateri_ strain UIO394 _in vivo_ chlorophyll-a measurements and cell concentations (cells mL<sup>-1</sup>).
 
