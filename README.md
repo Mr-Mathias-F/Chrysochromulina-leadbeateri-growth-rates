@@ -63,7 +63,6 @@ Column description:
 * **IVF_mean** – Mean _in vivo_ chlorophyll-a measurements of _Chrysochromulina leadbeateri_
 * **IVF_sd** – Standard deviation of  mean _in vivo_ chlorophyll-a measurements for technical replicates
 * **Cell_conc** – Cell concentration of _Chrysochromulina leadbeateri_ determined by manual cell counting (cells mL<sup>-1</sup>)
-* **Strain** – Strain of _Chrysochromulina leadbeateri_ used
 * **Species** – Taxonomic Species name
 * **Temp** – Temperature (°C)
 * **Salintiy** – Salinity of the medium
