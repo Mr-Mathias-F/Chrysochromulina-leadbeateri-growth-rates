@@ -12,7 +12,7 @@ The study used a high-throughput experimental design to screen the growth rates 
 
 ## Data analysis ##
 
-All files used for data processing, analysis and Arduino light panel programming are in the `Analysis` folder.
+All files used for data processing, analysis and Arduino light panel programming are in the `Analysis` folder using R (version 4.2.1).
 
 ![Fig_5](https://github.com/Mr-Mathias-F/Chrysochromulina-leadbeateri-growth-rates/assets/74455376/a3bea697-2081-418b-a58f-aa1c22694da8)
 
