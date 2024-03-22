@@ -61,13 +61,13 @@ Extracted data from the metaPR2 dataset for species _Chrysochromulina leadbeater
 
 Column description:
 
-* **depth** –
-* **salinity** –
-* **temperature** –
-* **asv_code** –
-* **n_reads_pct** –
-* **longitude** –
-* **latitude** –
+* **depth** – Depth level (m) of the metabarcode sample
+* **salinity** – Salinity at sampling site
+* **temperature** – Temperature (°C) at sampling site
+* **asv_code** – Assigned amplicon sequence variant (ASV) code of _Chrysochromulina leadbeateri_
+* **n_reads_pct** – Percentage (%) read of ASV out of total reads
+* **longitude** – Coordinate indicating the north-south position of the sample (°N / °S)
+* **latitude** – Coordinate indicating the east-west position of the sample (°E / °W)
 
 ### **HTCL_dataset_validation.csv** / **HTCL_dataset_validation.xlsx** ###
 
