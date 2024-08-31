@@ -1,6 +1,10 @@
 # Datasets from "Optimal growth conditions of the haptophyte _Chrysochromulina leadbeateri_ causing massive fish mortality in Northern Norway" #
 
+## Clone repository (UNIX-like systems and macOS) ##
 
+```
+git clone https://github.com/Mr-Mathias-F/Chrysochromulina-leadbeateri-growth-rates
+```
 
 
 ## Experimental design ##
